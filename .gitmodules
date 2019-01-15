@@ -1,0 +1,3 @@
+[submodule "nestedsub"]
+	path = nestedsub
+	url = https://github.com/christopheraburns/nestedsub
